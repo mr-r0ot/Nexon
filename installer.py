@@ -9,8 +9,7 @@ and installs the missing dependencies using the native package manager.
 It also installs any additional system-level dependencies required by Nexon.
 This script is intended to be run with administrative privileges where necessary.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Mohammad Taha Gorji
 """
 
 import os
